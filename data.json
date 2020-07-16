@@ -1,0 +1,38 @@
+{
+    "name": "UDAY PRATAP SINGH",
+    "title": "Student at CHANDIGARH UIVERSITY ",
+    "intro": "{ CODE BLOODED |  TECH ENTHUSIAST } ",
+    "skills": [
+        {
+            "title": "Google Actions",
+            "rating": "70"
+        },
+        {
+            "title": "C",
+            "rating": "95"
+        },
+        {
+            "title": "C++",
+            "rating": "92"
+        },
+        {
+            "title": "MySQL",
+            "rating": "90"
+        }
+         ,
+        {
+            "title": "CSS",
+            "rating": "60"
+        }
+        ,
+          {
+            "title": "JAVA",
+            "rating": "70"
+        }
+    ],
+    "contact": {
+        "location": "Chandigarh University",
+        "phone": "8436392056",
+        "email": "cu.18BCS2058@gmail.com"
+    }
+}
