@@ -8,31 +8,36 @@
             "rating": "70"
         },
         {
-            "title": "C",
-            "rating": "95"
+            "title": "Alexa Skills",
+            "rating": "60"
         },
         {
-            "title": "C++",
+            "title": "C/C++",
             "rating": "92"
         },
         {
-            "title": "MySQL",
+            "title": "SQL",
             "rating": "90"
-        }
-         ,
-        {
-            "title": "CSS",
-            "rating": "60"
         }
         ,
           {
             "title": "JAVA",
             "rating": "70"
         }
+        
+         {
+            "title": "ANDROID",
+            "rating": "84"
+         }
+        
+        {
+            "title": "COMPETITIVE PROGRAMMING",
+            "rating": "58"
+        }
     ],
     "contact": {
         "location": "Chandigarh University",
-        "phone": "8436392056",
-        "email": "cu.18BCS2058@gmail.com"
+        "phone": "ABCDEF2056",
+        "email": "coderu2058@gmail.com"
     }
 }
